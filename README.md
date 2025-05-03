@@ -23,5 +23,5 @@ An AI-powered voice and gesture-controlled assistant that interacts with YouTube
 
 - **Two different models** - {a.pkl,b.pkl} Classifier Models
                         {intent_classifier_model.pkl,vectorizer.pkl} Tensorflow Model
-
+- **Youtube tab should be focused everytime** 
 *Built with ❤️ by Saksham Bhatia*
